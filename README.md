@@ -7,7 +7,7 @@ Live Demo: https://abp-test-task.vercel.app/
 
 Клонувати репозиторій:
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/KirillVGX/ABP-test-task.git
 
 Перейти в папку проєкту:
 
