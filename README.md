@@ -9,10 +9,6 @@ Live Demo: https://abp-test-task.vercel.app/
 
 git clone https://github.com/KirillVGX/ABP-test-task.git
 
-Перейти в папку проєкту:
-
-cd your-repository-name
-
 Встановити залежності:
 
 npm install
