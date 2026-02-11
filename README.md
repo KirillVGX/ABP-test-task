@@ -1,7 +1,7 @@
 VIN Decoder SPA
 Посилання на розгорнутий застосунок
 
-Live Demo: [https://your-deployed-link.com](https://abp-test-task.vercel.app/)
+Live Demo: https://abp-test-task.vercel.app/
 
 Інструкція з локального запуску
 
